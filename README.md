@@ -14,5 +14,5 @@ Domains
 
 * http://lawrencecreates.github.io/projectX
 
-This is still in the works, there are problems with the domain name:
+We have a subdomain here: 
 * http://projectx.lawrencescreates.thefr33.com
