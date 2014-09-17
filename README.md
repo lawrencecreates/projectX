@@ -16,3 +16,8 @@ Domains
 
 We have a subdomain here: 
 * http://projectx.lawrencescreates.thefr33.com
+
+Website Code
+============
+The website on github is found in the gh-pages branch here
+https://github.com/lawrencecreates/projectX/tree/gh-pages
